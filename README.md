@@ -17,3 +17,5 @@ Btie-Me manager side:
 
 
 ![image](https://user-images.githubusercontent.com/84336693/148920584-3e96d628-69e8-4323-9924-1939bfaf50b6.png)
+![image](https://user-images.githubusercontent.com/84336693/148921318-0bc97cc5-08fd-4b58-8bca-65c7984f3234.png)
+
