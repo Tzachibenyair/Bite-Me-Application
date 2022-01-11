@@ -8,9 +8,12 @@ Client side:
 
 
 Supplier side:
+
 ![image](https://user-images.githubusercontent.com/84336693/148920391-75de6cf0-5b35-43ae-a3f6-194608f51ce1.png)
 ![image](https://user-images.githubusercontent.com/84336693/148920478-b728133f-df1f-421c-a129-b6086ff9f27f.png)
 
 
 Btie-Me manager side:
+
+
 ![image](https://user-images.githubusercontent.com/84336693/148920584-3e96d628-69e8-4323-9924-1939bfaf50b6.png)
